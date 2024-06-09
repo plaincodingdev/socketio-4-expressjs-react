@@ -1,14 +1,3 @@
-# Client
-
-Run the following command to start the client:
-
-```bash
-cd client
-npm install
-```
-
-http://localhost:5173/
-
 # Server
 
 Run the following command to start the server:
@@ -20,4 +9,15 @@ npm install -g nodemon
 nodemon index.js
 ```
 
-http://localhost:3000
+Access the server at `http://localhost:3000`
+
+# Client
+
+Run the following command to start the client:
+
+```bash
+cd client
+npm install
+```
+
+Access the client at `http://localhost:5173/`
